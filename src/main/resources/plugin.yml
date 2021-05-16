@@ -1,0 +1,5 @@
+name: Instakill
+main: io.github.luckstern.instakill.main
+version: 1.0
+author: Luckstern
+api-version: 1.16
